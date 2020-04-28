@@ -1,2 +1,2 @@
 print("first")
-print("sec")
+print("second")
